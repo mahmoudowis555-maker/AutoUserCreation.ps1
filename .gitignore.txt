@@ -1,0 +1,29 @@
+# PowerShell
+
+*.ps1xml
+
+# Logs
+
+*.log
+
+# Windows
+
+Thumbs.db
+Desktop.ini
+
+# VS Code
+
+.vscode/
+
+# PowerShell History
+
+ConsoleHost_history.txt
+
+# Sensitive user data
+
+NewUsers.csv
+
+# Temporary files
+
+*.tmp
+*.bak
